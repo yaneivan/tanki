@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\Tanki\Tanki\obj\Debug\Tanki.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Tanki\Tanki\obj\Debug\Tanki.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\Tanki\Tanki\obj\Debug\Tanki.Form1.resources
+C:\Users\admin\source\repos\Tanki\Tanki\obj\Debug\Tanki.Properties.Resources.resources
+C:\Users\admin\source\repos\Tanki\Tanki\obj\Debug\Tanki.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Tanki\Tanki\obj\Debug\Tanki.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Tanki\Tanki\bin\Debug\Tanki.exe.config
+C:\Users\admin\source\repos\Tanki\Tanki\bin\Debug\Tanki.exe
+C:\Users\admin\source\repos\Tanki\Tanki\bin\Debug\Tanki.pdb
+C:\Users\admin\source\repos\Tanki\Tanki\obj\Debug\Tanki.exe
+C:\Users\admin\source\repos\Tanki\Tanki\obj\Debug\Tanki.pdb
